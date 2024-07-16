@@ -8,3 +8,5 @@
 5. Conditions
 6. Form
 7. ES6
+
+feature 2 fix conflict
